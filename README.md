@@ -1,6 +1,6 @@
 # Nyx_Core v0.2.0
 
-Modern standalone RedM/Cfx.re core object inspired by ESX patterns. This update keeps the old `0.1.0` exports/events and adds safer callbacks, ACE-aware commands, state bags, cleaner player helpers, and polished NUI notifications.
+Modern standalone RedM/Cfx.re core object inspired by ESX patterns from fivem. This update keeps the old `0.1.0` exports/events and adds safer callbacks, ACE-aware commands, state bags, cleaner player helpers, and polished NUI notifications.
 
 
 ## Install
